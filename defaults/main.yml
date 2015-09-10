@@ -2,6 +2,8 @@
 homebrew_install_path: /usr/local
 homebrew_brew_bin_path: /usr/local/bin
 
+skip_cask: false    
+
 homebrew_installed_packages:
   - ssh-copy-id
   - pv
